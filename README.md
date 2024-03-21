@@ -1,5 +1,8 @@
-# nft_simple
+IyBuZnRfc2ltcGxlCgohW10oaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYv
+YXprYWRldi9ibG9iL21haW4vZmx1dHRlci9uZnRfc2ltcGxlX2FwcC8xLnBu
+ZykKCiFbXShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi9hemthZGV2L2Js
+b2IvbWFpbi9mbHV0dGVyL25mdF9zaW1wbGVfYXBwLzIucG5nKQo=
 
-![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/1.png)
-
-![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/2.png)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
